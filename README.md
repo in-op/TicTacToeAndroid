@@ -1,6 +1,9 @@
 # TicTacToeAndroid
 TicTacToeAndroid is a Unity project
 with both Android and Windows support.
-Players select who goes first
-and face off against an AI opponent
-who uses the MiniMax search algorithm.
+The game is a modified version of the
+Tic-Tac-Toe implementation from this
+[Unity tutorial](https://unity3d.com/learn/tutorials/tic-tac-toe/introduction-and-setting-project).
+The game adds an AI opponent
+which utilizes the [MiniMax](https://en.wikipedia.org/wiki/Minimax)
+algorithm to select its moves.
