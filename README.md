@@ -6,4 +6,5 @@ Tic-Tac-Toe implementation from this
 [Unity tutorial](https://unity3d.com/learn/tutorials/tic-tac-toe/introduction-and-setting-project).
 The game adds an AI opponent
 which utilizes the [MiniMax](https://en.wikipedia.org/wiki/Minimax)
-algorithm to select its moves.
+algorithm, and will always
+select perfect moves.
